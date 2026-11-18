@@ -1,11 +1,11 @@
 {
-  "version": "1.5.3",
-  "released_at": "2026-11-18T12:57:51.791Z",
+  "version": "1.6.0",
+  "released_at": "2026-11-18T13:06:25.603Z",
   "notes": [
-    "工作流项目选择器；运行记录按当前项目过滤"
+    "重做侧栏分类；新增应用列表；API 文档与设置移到底部"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.5.3.tar.gz",
-  "sha256": "818ecaf73c31d3a66f12247411f41a45039f50cc0c29584a00a41bed37590e28",
-  "size": 292030
+  "artifact": "releases/cloady-fleet-1.6.0.tar.gz",
+  "sha256": "a5080c9d1cb8629820fc4e3dd6b0403350daf3f4c2a7ce029351a48f5fb9ee4c",
+  "size": 295996
 }
