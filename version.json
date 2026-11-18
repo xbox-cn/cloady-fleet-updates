@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "released_at": "2026-11-18T04:55:14.174Z",
+  "version": "1.1.2",
+  "released_at": "2026-11-18T05:43:41.339Z",
   "notes": [
-    "移除资产界面，旧的 /inventory 链接自动跳转到总览"
+    "导入即测活并同步权限；新账号 60 分钟内每 3 分钟复测"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.1.1.tar.gz",
-  "sha256": "020e25dd9483fbf57c4b3c5487fc6d0101787f5584f7b658c0eb6c686d27f82e",
-  "size": 271658
+  "artifact": "releases/cloady-fleet-1.1.2.tar.gz",
+  "sha256": "33a658a9c25993d218e5cb753a6536f6cd5a0173cc8e8cfe1dbd235093f38a29",
+  "size": 272981
 }
