@@ -1,13 +1,11 @@
 {
-  "version": "1.8.0",
-  "released_at": "2026-11-18T13:50:45.478Z",
+  "version": "1.8.1",
+  "released_at": "2026-11-18T13:54:35.478Z",
   "notes": [
-    "应用列表支持勾选、全选筛选结果与批量删除",
-    "账号页与 API 实验室增加全选筛选结果",
-    "批量删除按 50 个/批执行，失败项保留选择并可重试"
+    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.8.0.tar.gz",
-  "sha256": "3af544b5025b6fca37ee73f4e9a854b22f682bfa782252ce375cdd127b1f5fae",
-  "size": 300423
+  "artifact": "releases/cloady-fleet-1.8.1.tar.gz",
+  "sha256": "ac8b223e54b8e119e7e5fd2ee0fd97cb900fef302c108422147f190186436482",
+  "size": 300846
 }
