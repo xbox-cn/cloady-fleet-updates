@@ -1,11 +1,11 @@
 {
-  "version": "1.3.1",
-  "released_at": "2026-11-18T12:07:14.371Z",
+  "version": "1.3.2",
+  "released_at": "2026-11-18T12:12:14.735Z",
   "notes": [
-    "工作流轮询容错与启动失败清理；固定公网回连地址"
+    "工作流页移除私有仓库外链，源码内置，不再触发 GitHub 账号选择"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.3.1.tar.gz",
-  "sha256": "521588855ea40a2f7f22f69464f36ac8064be5236ebba515309f897b4a377503",
-  "size": 287397
+  "artifact": "releases/cloady-fleet-1.3.2.tar.gz",
+  "sha256": "2057584e68e04ae503b74a8ff96be90694ccda17bf27728fcd013ae1f92c460e",
+  "size": 287475
 }
