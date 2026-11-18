@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "released_at": "2026-11-18T05:43:41.339Z",
+  "version": "1.2.0",
+  "released_at": "2026-11-18T08:46:57.279Z",
   "notes": [
-    "导入即测活并同步权限；新账号 60 分钟内每 3 分钟复测"
+    "数万账号扩展：任务分块与进度合并、全量批处理、索引与保留策略"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.1.2.tar.gz",
-  "sha256": "33a658a9c25993d218e5cb753a6536f6cd5a0173cc8e8cfe1dbd235093f38a29",
-  "size": 272981
+  "artifact": "releases/cloady-fleet-1.2.0.tar.gz",
+  "sha256": "d9a9f902ba9e31c70709e80cbd15772f100ae419e46e42e884ac2115cadd3e22",
+  "size": 275642
 }
