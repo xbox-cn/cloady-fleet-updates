@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "released_at": "2026-11-18T13:06:25.603Z",
+  "version": "1.6.1",
+  "released_at": "2026-11-18T13:13:49.817Z",
   "notes": [
-    "重做侧栏分类；新增应用列表；API 文档与设置移到底部"
+    "侧栏分类微调；应用列表支持删除应用关闭任务"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.6.0.tar.gz",
-  "sha256": "a5080c9d1cb8629820fc4e3dd6b0403350daf3f4c2a7ce029351a48f5fb9ee4c",
-  "size": 295996
+  "artifact": "releases/cloady-fleet-1.6.1.tar.gz",
+  "sha256": "055fc696a9249a4173bf92d996e022d075c48c926704d28b203d39c9d1d17642",
+  "size": 296491
 }
