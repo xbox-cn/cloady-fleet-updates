@@ -1,11 +1,11 @@
 {
-  "version": "1.5.2",
-  "released_at": "2026-11-18T12:53:29.421Z",
+  "version": "1.5.3",
+  "released_at": "2026-11-18T12:57:51.791Z",
   "notes": [
-    "修复部署容器卡 deploying：内置 3000 readiness 监听；新增注册代理参数"
+    "工作流项目选择器；运行记录按当前项目过滤"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.5.2.tar.gz",
-  "sha256": "aaa0cab81fb354cd7adf4473d0024b035621a0a4519fc30c8ed56736c1bcd5a4",
-  "size": 291832
+  "artifact": "releases/cloady-fleet-1.5.3.tar.gz",
+  "sha256": "818ecaf73c31d3a66f12247411f41a45039f50cc0c29584a00a41bed37590e28",
+  "size": 292030
 }
