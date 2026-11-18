@@ -2,7 +2,8 @@
   "version": "1.6.3",
   "released_at": "2026-11-18T13:33:46.508Z",
   "notes": [
-    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
+    "工作流运行中列表改为服务端分页，显示真实运行/排队总数",
+    "1017 个账号可全部入队，不再把前 100 条误当成总量"
   ],
   "min_version": "1.0.0",
   "artifact": "releases/cloady-fleet-1.6.3.tar.gz",
