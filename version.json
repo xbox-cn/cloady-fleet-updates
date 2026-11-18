@@ -1,12 +1,11 @@
 {
-  "version": "1.7.0",
-  "released_at": "2026-11-18T13:42:12.716Z",
+  "version": "1.8.0",
+  "released_at": "2026-11-18T13:50:45.478Z",
   "notes": [
-    "工作流宿主机并发从固定 3 改为可调，默认 12、上限 32",
-    "工作流页与设置页可直接调整并发，调高后排队任务立即补位"
+    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.7.0.tar.gz",
-  "sha256": "9ff3dc706fc009bb784d785bf855a15c1cfb183dbba1d4e6ce8b817c5112c55b",
-  "size": 298069
+  "artifact": "releases/cloady-fleet-1.8.0.tar.gz",
+  "sha256": "3af544b5025b6fca37ee73f4e9a854b22f682bfa782252ce375cdd127b1f5fae",
+  "size": 300423
 }
