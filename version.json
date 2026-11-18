@@ -2,7 +2,8 @@
   "version": "1.7.0",
   "released_at": "2026-11-18T13:42:12.716Z",
   "notes": [
-    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
+    "工作流宿主机并发从固定 3 改为可调，默认 12、上限 32",
+    "工作流页与设置页可直接调整并发，调高后排队任务立即补位"
   ],
   "min_version": "1.0.0",
   "artifact": "releases/cloady-fleet-1.7.0.tar.gz",
