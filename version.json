@@ -1,13 +1,11 @@
 {
-  "version": "1.8.1",
-  "released_at": "2026-11-18T13:54:35.478Z",
+  "version": "1.9.1",
+  "released_at": "2026-11-18T14:02:24.256Z",
   "notes": [
-    "应用批量删除改为 200 个/批、默认 12 并发",
-    "删除弹窗内可调并发 1~32，单批内真并发执行",
-    "其他批量任务继续走任务引擎并发，失败项可重试"
+    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.8.1.tar.gz",
-  "sha256": "ac8b223e54b8e119e7e5fd2ee0fd97cb900fef302c108422147f190186436482",
-  "size": 300846
+  "artifact": "releases/cloady-fleet-1.9.1.tar.gz",
+  "sha256": "4e225d15a820e165007378f30375d1c87703e0a49ecc0b81d7ac8fdea76b88f1",
+  "size": 302883
 }
