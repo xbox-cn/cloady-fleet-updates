@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "released_at": "2026-11-18T08:46:57.279Z",
+  "version": "1.3.0",
+  "released_at": "2026-11-18T12:02:57.647Z",
   "notes": [
-    "数万账号扩展：任务分块与进度合并、全量批处理、索引与保留策略"
+    "自动化工作流：容器内运行 cloady-autoreg，按账号筛选与随时取消"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.2.0.tar.gz",
-  "sha256": "d9a9f902ba9e31c70709e80cbd15772f100ae419e46e42e884ac2115cadd3e22",
-  "size": 275642
+  "artifact": "releases/cloady-fleet-1.3.0.tar.gz",
+  "sha256": "3f81fc55a9801e9e04dc4d19a847bb14beccaccd89ec5cb1585a7f02ed3ec90d",
+  "size": 287357
 }
