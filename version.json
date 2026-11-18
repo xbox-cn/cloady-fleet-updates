@@ -1,11 +1,11 @@
 {
-  "version": "1.5.0",
-  "released_at": "2026-11-18T12:40:46.222Z",
+  "version": "1.5.1",
+  "released_at": "2026-11-18T12:43:38.365Z",
   "notes": [
-    "批量工作流页面：多账号勾选、批量启动/取消、队列与运行中筛选"
+    "批量工作流：取消按钮支持任意已选范围；测试数据清理"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.5.0.tar.gz",
-  "sha256": "2ef156625ec2f24aa00b49ac1d7dfb69bb5426b94becfc7662a9bd9bedf7a015",
+  "artifact": "releases/cloady-fleet-1.5.1.tar.gz",
+  "sha256": "feaea4eae0c1f69490d9291a82e2758cede2fee8143b4236ab98048e62d196c5",
   "size": 291582
 }
