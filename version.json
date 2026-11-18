@@ -1,11 +1,11 @@
 {
-  "version": "1.6.1",
-  "released_at": "2026-11-18T13:13:49.817Z",
+  "version": "1.6.2",
+  "released_at": "2026-11-18T13:18:13.763Z",
   "notes": [
-    "侧栏分类微调；应用列表支持删除应用关闭任务"
+    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.6.1.tar.gz",
-  "sha256": "055fc696a9249a4173bf92d996e022d075c48c926704d28b203d39c9d1d17642",
-  "size": 296491
+  "artifact": "releases/cloady-fleet-1.6.2.tar.gz",
+  "sha256": "5de083804dbf659ca1b5a470bf53181f30909e7334baa14cedd52b67aea549b3",
+  "size": 296945
 }
