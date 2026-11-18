@@ -2,7 +2,9 @@
   "version": "1.9.1",
   "released_at": "2026-11-18T14:02:24.256Z",
   "notes": [
-    "删除应用改为真实 Cloady DELETE，并同步清理本地快照"
+    "正确识别 403 suspended，账号状态归类为封号",
+    "自动删除封禁账号默认开启，循环分批清空",
+    "删除账号前尝试清理 Cloady 工作区/应用，本地记录级联删除"
   ],
   "min_version": "1.0.0",
   "artifact": "releases/cloady-fleet-1.9.1.tar.gz",
