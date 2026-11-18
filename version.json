@@ -1,11 +1,11 @@
 {
-  "version": "1.4.1",
-  "released_at": "2026-11-18T12:25:40.931Z",
+  "version": "1.4.2",
+  "released_at": "2026-11-18T12:30:32.029Z",
   "notes": [
-    "工作流页宿主机模式文案与必填校验；本地源码 dry-run 验证"
+    "Auto Deploy 上传 IP 默认 47.98.228.129；WARP/上传开关标注 1=开启"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.4.1.tar.gz",
-  "sha256": "e5f64c294a85a7c3ad005a7c94a36dd08f7f55c022dcb76672ca1c4ce02370a1",
-  "size": 290154
+  "artifact": "releases/cloady-fleet-1.4.2.tar.gz",
+  "sha256": "3ce95359806df285350bd26459311c8e43abf5535a133c775a8a6ea907b1e518",
+  "size": 290242
 }
