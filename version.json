@@ -1,11 +1,11 @@
 {
-  "version": "1.4.0",
-  "released_at": "2026-11-18T12:23:14.593Z",
+  "version": "1.4.1",
+  "released_at": "2026-11-18T12:25:40.931Z",
   "notes": [
-    "替换为 cloady_auto_depoly：宿主机本地源码部署，不再依赖 GitHub"
+    "工作流页宿主机模式文案与必填校验；本地源码 dry-run 验证"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.4.0.tar.gz",
-  "sha256": "cfe9737d7d91e5fdb652a0c3d4924b3424883302a3d9807c77974acb883353e6",
-  "size": 289981
+  "artifact": "releases/cloady-fleet-1.4.1.tar.gz",
+  "sha256": "e5f64c294a85a7c3ad005a7c94a36dd08f7f55c022dcb76672ca1c4ce02370a1",
+  "size": 290154
 }
