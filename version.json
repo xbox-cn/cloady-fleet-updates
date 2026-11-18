@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "released_at": "2026-11-18T04:27:05.076Z",
+  "version": "1.1.1",
+  "released_at": "2026-11-18T04:55:14.174Z",
   "notes": [
-    "自动更新：版本检测、公开更新通道与失败回滚"
+    "移除资产界面，旧的 /inventory 链接自动跳转到总览"
   ],
   "min_version": "1.0.0",
-  "artifact": "releases/cloady-fleet-1.1.0.tar.gz",
-  "sha256": "9cc82b918598241263582d1ba1ddfe1359eae39a3bb26e6d34ee2ac6f36c379d",
-  "size": 275421
+  "artifact": "releases/cloady-fleet-1.1.1.tar.gz",
+  "sha256": "020e25dd9483fbf57c4b3c5487fc6d0101787f5584f7b658c0eb6c686d27f82e",
+  "size": 271658
 }
